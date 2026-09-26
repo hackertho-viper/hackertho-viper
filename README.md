@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./images/profile.jpg" width="260">
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/660f4bd8-55f1-4673-a2b4-7a66ce97644c" />
+
 
 # 👋 Hi, I'm Ntando Ndawonde
 
