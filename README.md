@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/660f4bd8-55f1-4673-a2b4-7a66ce97644c" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/604e6b9a-1943-469b-96f5-3f29c6a428cb" />
+
 
 
 # 👋 Hi, I'm Ntando Ndawonde
